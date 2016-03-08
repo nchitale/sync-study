@@ -5,3 +5,5 @@ We envision it to be like chat - where you see whether someone is online (when y
 And instead of chatting, it's studying at the same time and at the same place (but possibly different subjects).
 
 If you made it this far to the end of this rather verbose description, congratulations! Feel free to peruse the product of our pre-finals procrastination project.
+
+test
